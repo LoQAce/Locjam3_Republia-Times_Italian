@@ -98,8 +98,8 @@ newsitem_construct2	*** ####....##...####..## ***	*** ####....##...####..## ***
 newsitem_construct3	*** Est#blishing secure chan#el. Aw#it further# comm###ication ***	*** St#bilimento di un canale sic#ro. Att#ndere ulteriori# com###cazioni ***
 newsitem_construct4	*** #Please hear me. I am Kurstov, leader of#the rebellion. We need your help. ***	*** #Ascoltami per favore. Sono Kurstov, il capo della rivolta. Abbiamo bisogno del tuo aiuto. ***
 newsitem_construct5	*** We can rescue your family. Sow disloyalty to strengthen the rebels. You have 4 days. ***	*** Possiamo salvare la tua famiglia. Semina slealtà per rinforzare i ribelli. Hai 4 giorni. ***
-newsitem_construct6	*** Please help us. The government's tyranny must end! Place negative articles! ***|*** Your family will soon be safe! Drop the public's loyalty to -30 and get 1000 readers in 3 days! ***|*** It's working! Your efforts have strengthened us unimaginably! ***	*** Per favore aiutaci. La tirannia del governo deve finire! Posiziona articoli negativi! ***|*** La tua famiglia sarà presto al sicuro! Porta la fedeltà del pubblico a -30 e raggiungi 1000 lettori in 3 giorni! ***|*** t funzionando! I tuoi sforzi ci hanno rinforzato incredibilmente! ***"
-newsitem_construct7	*** The government cannot win! Seal their fate! Place negative articles! ***|*** Your family's safety is assured! Convince 1000 readers to be disloyal in 2 days! ***|*** Yes! Our operations are in order. Soon we overthrow! ***	*** Il governo non può vincere! Determina il loro destino! Posiziona articoli negativi! ***|*** La salvezza della tua famiglia sarà assicurata! Convinci 1000 lettori alla slealtà in 2 giorni! ***|*** Sì! Le nostre operazioni sono pronte. Prest rionferemo! ***
+newsitem_construct6	*** Please help us. The government's tyranny must end! Place negative articles! ***|*** Your family will soon be safe! Drop the public's loyalty to -30 and get 1000 readers in 3 days! ***|*** It's working! Your efforts have strengthened us unimaginably! ***	*** Per favore aiutaci. La tirannia del governo deve finire! Posiziona articoli negativi! ***|*** La tua famiglia sarà presto al sicuro! Porta la fedeltà del pubblico a -30 e raggiungi 1000 lettori in 3 giorni! ***|*** sta funzionando! I tuoi sforzi ci hanno rinforzato incredibilmente! ***"
+newsitem_construct7	*** The government cannot win! Seal their fate! Place negative articles! ***|*** Your family's safety is assured! Convince 1000 readers to be disloyal in 2 days! ***|*** Yes! Our operations are in order. Soon we overthrow! ***	*** Il governo non può vincere! Determina il loro destino! Posiziona articoli negativi! ***|*** La salvezza della tua famiglia sarà assicurata! Convinci 1000 lettori alla slealtà in 2 giorni! ***|*** Sì! Le nostre operazioni sono pronte. Presto trionferemo! ***
 newsitem_construct8	*** We have no time! The people must be free! Spread negative news! ***|*** Our time is at hand! Hurry! Get 1000 readers with -30 loyalty by the end of today! ***|*** Oh glorious day! We strike at sundown. Prepare yourself! ***	*** Non abbiamo tempo! La gente deve essere libera! Diffondi notizie negative! ***|*** Il nostro tempo sta per giungere! Sbrigati! Ottieni 1000 lettori con lealtà -30 entro oggi! ***|*** Oh che giorno glorioso! Colpiremo al tramonto. Preparati! ***
 newsitem_construct9_1	Terrorist rebel hideout near Central Chem destroyed	Nascondiglio dei ribelli terroristi vicino alla Centrale Chimica distrutto
 newsitem_construct9_2	Rebels Routed At Factory!	Ribelli sgominati alla fabbrica!
@@ -211,7 +211,7 @@ newsitem_construct62_1	Cherrywood's newest stars attended recent gala ball to ho
 newsitem_construct62_2	Stars Dance For Vets!	Le stelle ballano per i veterani!
 newsitem_construct63_1	New fall TV programming will focus on [GOV]'s rebuilding	Nuova programmazione TV autunnale focalizzerà sulla ricostruzione di [GOV]
 newsitem_construct63_2	Fall TV Revealaed!	Programmazione TV autunnale rivelata!
-newsitem_construct64_1	""Beloved children's book \Mumpit Mush\"""" finally coming to the big screen""""""	Amato libro per bambini <Mumpit Mush> finalmente in arrivo sul grande schermo
+newsitem_construct64_1	""Beloved children's book \Mumpit Mush\"""" finally coming to the big screen""""""	Amato libro per bambini “Mumpit Mush” finalmente in arrivo sul grande schermo
 newsitem_construct64_2	Mumpit Mush Is Coming!	Mumpit Mush in arrivo!
 newsitem_construct65_1	Superstars Chad and Jenlyn preparing for Cherrywood wedding tomorrow	Super VIP Chad e Jenlyn si preparano per matrimonio domani a Cherrywood
 newsitem_construct65_2	C&J To Tie the Knot!	C e J pronti per il grande passo!
@@ -234,7 +234,7 @@ nightstate_create3	Loyalty	Fedeltà
 nightstate_create4	Readership	Lettori
 nightstate_formatres	   (no change)	   (nessuna modifica)
 paper_update	 [G] 	 [G]
-playstate_create1	End Day	Fine Dì
+playstate_create1	End Day	Fine\nGiorno
 playstate_create2	Drag Articles\nto Paper	Trascina gli articoli\nsul giornale
 playstate_create3	News Feed	Notiziario
 playstate_update1	The day is over. There is no more time. We must send to print immediately.	La giornata è terminata. Non c'è altro tempo. Dobbiamo andare in stampa immediatamente.
